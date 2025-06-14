@@ -1,6 +1,7 @@
 title: "Hacker Hangar"
 description: "Documenting my journey to junior penetration tester and beyond."
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark"
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
