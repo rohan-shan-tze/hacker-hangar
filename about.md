@@ -22,5 +22,5 @@ Apart from chess, my hobbies include: eating, the gym, various sports such as fo
 
 *A quick Google search of my name should bring up more results too.*
 
-Best regards,
+Best regards, <br>
 Rohan Shan Tze Navaratnam
