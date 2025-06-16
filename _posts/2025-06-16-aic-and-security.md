@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: The CIA and the Forms of Security Control
 date: 2025-06-16
 author_profile: true
