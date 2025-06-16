@@ -6,4 +6,4 @@ _site/
 .bundle/
 vendor/
 # Ignore Obsidian files generated since I use Obsidian as my markdown editor
-.obsidian
+_posts/.obsidian/
