@@ -21,31 +21,31 @@ Security controls work to stop, mitigate, or recover from security breaches.
 
 There are four main **categories** of security controls: Technical, Managerial, Operational, and Physical.
 
-Technical controls involve technical systems. Encryption and firewalls are examples of technical controls
+Technical controls involve technical systems. Encryption and firewalls are examples of technical controls.
 
 Managerial controls are administrative in nature. Examples include standard operating procedures and guidelines.
 
-Operational controls use people to implement security. An every-day-life example is a security guard, and a more out-of-the-box example is a penetration tester.
+Operational controls use people to implement security. An everyday example is a security guard, and a more out-of-the-box example is a penetration tester.
 
 Physical controls exist in the physical space. Examples include a locked door, or a lift that can only go to certain floors with an electronic pass.
 
 Those were the categories of controls, now let's look at the **types** of control.
 
-We have preventive, deterrent, detective, corrective, compensating, and directive
+We have preventive, deterrent, detective, corrective, compensating, and directive.
 
-Preventative involves preventing the security breach. For example via a password.
+Preventative involves preventing the security breach. For example, this could be achieved via a password.
 
-Deterrent involves deterring the attack. This can bed done using warnings and threats.
+Deterrent involves deterring the attack. This can be done using warnings and threats.
 
-Detective involves detecting the breach. For example by having someone checking the system logs regularly.
+Detective involves detecting the breach. For example by having someone check the system logs regularly.
 
-Corrective involves "fixing" the breach. For example if the system's data is destroyed in an attack, recovering the data from a cold copy is a corrective measure
+Corrective involves "fixing" the breach. For example if the system's data is destroyed in an attack, recovering the data from a cold copy is a corrective measure.
 
-Compensating controls are the miscellaneous controls if the others aren't sufficient. They may be temporary. For example if it has been detected that the API that one part of the website uses has been compromised, cutting of access to that section of the website while the API is fixed is a compensating control.
+Compensating controls are the miscellaneous controls if the others aren't sufficient. They may be temporary. For example if it has been detected that the API that one part of the website uses has been compromised, cutting off access to that section of the website while the API is fixed is a compensating control.
 
 There are also directive controls, which are a weak measure that just "nudges" potential attackers away. For example instead of having a locked door, having a sign that says do not enter would be a directive measure.
 
-How all of this comes together is that a particular example of a control measure will be in an least one control category and be at least one control type.
+How all of this comes together is that a particular example of a control measure will be in at least one control category and be at least one control type.
 
 For example a firewall is a technical preventative control.
 
@@ -75,12 +75,12 @@ One implementation of non-repudiation is verification using a digital signature,
 
 Sender has a private and public key pair. The private key is known only to the sender, but the public key can be known by anyone. This public-private key method of encryption is ubiquitous and involves a smart mathematical trick that we will not get into now.
 
-Sender uses known hashing algorithm to produce a hash from the message, then uses private key to encrypt the hash. This is the digital signature. 
+Sender uses known hashing algorithm to produce a hash from the message, then uses their private key to encrypt the hash. This is the digital signature. 
 
-Then sender sends the plain-text message and the digital signature to the recipient.
+Then, the sender sends the plain-text message and the digital signature to the recipient.
 
 Recipient decrypts the signature using the sender's public key. This produces the hash.
 
-We then apply the same hashing algorithm as the sender used, to the plain-text message to again produce the hash.
+We then apply the same hashing algorithm as the sender used to the plain-text message to again produce the hash.
 
 If the two hashes the recipient generated are equal to one another, then we know we have the uncompromised message from the intended sender.
