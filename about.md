@@ -11,7 +11,7 @@ I have ambitions to get into penetration testing and red teaming and like learni
 
 A bit more about me: I am an International Master of chess and have won competitions such as the Eastern Asia U-18 Chamionship, the ASEAN UNIVERSITY GAMES twice, and the Malaysia Games (SUKMA). 
 
-Apart from chess, my hobbies include: eating, the gym, various sports such as football, table tennis, badminton and basketball, as well as hiking. I also have interests in economics, neuroscience, psychology, business and politics.
+Apart from chess, my hobbies include: cooking (and eating), the gym, various sports such as football, table tennis, badminton and basketball, as well as hiking. I also have interests in economics, neuroscience, psychology, business and politics.
 
 ---
 
@@ -20,7 +20,5 @@ Apart from chess, my hobbies include: eating, the gym, various sports such as fo
 - 📸 [Instagram](https://www.instagram.com/rohantze)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohan-shan-tze-navaratnam)
 
-*A quick Google search of my name should bring up more results too.*
-
-Best regards, <br>
+Thanks, <br>
 Rohan Shan Tze Navaratnam
