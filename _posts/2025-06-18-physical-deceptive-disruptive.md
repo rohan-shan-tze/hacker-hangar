@@ -27,10 +27,10 @@ You may find the disruptive and deceptive methods more interesting than the phys
 − Access badge <br>
 − Lighting <br>
 − Sensors <br>
-	- Infrared <br>
-	- Pressure <br>
-	- Microwave <br>
-	- Ultrasonic <br>
+- Infrared <br>
+- Pressure <br>
+- Microwave <br>
+- Ultrasonic <br>
 
 ### Deceptive and Disruptive Methods
 
