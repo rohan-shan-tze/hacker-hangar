@@ -26,7 +26,7 @@ You may find the disruptive and deceptive methods more interesting than the phys
 − Security guard <br>
 − Access badge <br>
 − Lighting <br>
-− Sensors <br>
+− Sensors
 - Infrared <br>
 - Pressure <br>
 - Microwave <br>
