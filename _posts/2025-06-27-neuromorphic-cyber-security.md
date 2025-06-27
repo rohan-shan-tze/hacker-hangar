@@ -26,7 +26,7 @@ One way that ANNs often differ from BNNs is that in many traditional ANNs such a
 
 One proposed solution to this issue is neuromorphic computing, and specifically developing Spiking Neural Networks (SNNs) which stay more faithful to BNNs. SNNs accumulate input over time and only 'fires' (or 'spikes') once the accumulation reaches a threshold. This is analogous to how in our brain, neurons only activate when they reach a certain electrical excitement threshold. This means that neurons only activate in response to relevant stimuli, leading to event driven computation and energy efficiency.
 
-Neuromorphic hardware designs physical systems that stay true to the human brain. These systems are inherently suited to run SNNs more efficiently. Notable neuromorphic hardware projects include Intel's Loihi Neuromorphic Processor, IBM's NorthPole Neuromorphic Chip, and the University of Manchester's SpiNNaker Large-Scale Neuromorphic Machine.
+Neuromorphic hardware designs physical systems that stay true to the human brain. These systems are inherently suited to run SNNs more efficiently. Notable neuromorphic hardware projects include Intel's Loihi Chip, IBM's NorthPole Chip, and the University of Manchester's SpiNNaker Large-Scale Neuromorphic Machine.
 
 {% include figure
   image_path="/assets/images/snn-schematic-with-inhibitory-nodes.png"
