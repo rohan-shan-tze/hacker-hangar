@@ -47,7 +47,7 @@ Neuromorphic hardware designs physical systems that stay true to the human brain
 
 ### Possible Implications for Cybersecurity
 
-As a cybersecurity enthusiast, I would be remiss not to mention the security implications of neuromorphic computing.
+As a cybersecurity enthusiast, I would be remiss not to mention the security implications of neuromorphic computing. They include:
 
 - Threat Detection: It has been shown that neuromorphic computing excels at pattern recognition tasks [3, 4], possibly from the notion that SNNs try to replicate our brain's plasticity. This ability can be applied in the realm of (automated) threat detection.
 - Adaptive Access Control: SNNs may be well-suited to learn from user behaviour over time and adjust trust levels based on context like time and location to restrict access behind more layers of authentication.
