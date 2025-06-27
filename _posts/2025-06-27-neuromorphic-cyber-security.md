@@ -7,12 +7,12 @@ read_time: true
 tags:
   - neuromorphic
   - cybersecurity
-image: /assets/images/brain-with-neuron-nodes.png
+image: /assets/images/brain-with-neuron-node.png
 excerpt: An introduction to neuromorphic computing including a brief discussion on its implications for cybersecurity.
 ---
 
 {% include figure
-  image_path="/assets/images/brain-with-neuron-nodes.png"
+  image_path="/assets/images/brain-with-neuron-node.png"
   caption="Brain[1]"
   alt="Brain with connected neuron nodes visual"
 %}
