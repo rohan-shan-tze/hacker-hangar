@@ -10,6 +10,12 @@ tags:
 excerpt: An introduction to neuromorphic computing including a brief discussion on its implications for cybersecurity.
 ---
 
+{% include figure
+  image_path="/assets/images/brain-with-neuron-nodes.avif"
+  caption="Brain[1]"
+  alt="Brain with connected neuron nodes visual"
+%}
+
 ### What is Neuromorphic Computing?
 
 Neuromorphic computing is the exciting field of developing systems that mimic how the brain works.
@@ -21,6 +27,12 @@ One way that ANNs often differ from BNNs is that in many traditional ANNs such a
 One proposed solution to this issue is neuromorphic computing, and specifically developing Spiking Neural Networks (SNNs) which stay more faithful to BNNs. SNNs accumulate input over time and only 'fires' (or 'spikes') once the accumulation reaches a threshold. This is analogous to how in our brain, neurons only activate when they reach a certain electrical excitement threshold. This means that neurons only activate in response to relevant stimuli, leading to event driven computation and energy efficiency.
 
 Neuromorphic hardware designs physical systems that stay true to the human brain. These systems are inherently suited to run SNNs more efficiently. Notable neuromorphic hardware projects include Intel's Loihi Neuromorphic Processor, IBM's NorthPole Neuromorphic Chip, and the University of Manchester's SpiNNaker Large-Scale Neuromorphic Machine.
+
+{% include figure
+  image_path="/assets/images/snn-schematic-with-inhibitory-nodes.png"
+  caption="Schematic of a spiking neural network (SNN) with excitatory and inhibitory neurons. Inhibitory neurons work against excitatory neurons, helping regulate neuron activity and prevent unnecessary activation. [2]"
+  alt="Spiking neural network with labeled excitatory and inhibitory neurons"
+%}
 
 ### Advantages of Neuromorphic Computing
 
@@ -37,7 +49,7 @@ Neuromorphic hardware designs physical systems that stay true to the human brain
 
 As a cybersecurity enthusiast, I would be remiss not to mention the security implications of neuromorphic computing.
 
-- Threat Detection: It has been shown that neuromorphic computing excels at pattern recognition tasks [1, 2], possibly from the notion that SNNs try to replicate our brain's plasticity. This ability can be applied in the realm of (automated) threat detection.
+- Threat Detection: It has been shown that neuromorphic computing excels at pattern recognition tasks [3, 4], possibly from the notion that SNNs try to replicate our brain's plasticity. This ability can be applied in the realm of (automated) threat detection.
 - Adaptive Access Control: SNNs may be well-suited to learn from user behaviour over time and adjust trust levels based on context like time and location to restrict access behind more layers of authentication.
 - Additional Attack Vectors: Although new technologies like SNNs will help defensive systems, malicious actors can also utilise similar technologies to try and develop new angles and methods of attacks. For example, it may be possible for attackers to use neuromorphic computing to simulate human behaviour in order to bypass traditional anomaly detection systems.
 
@@ -48,8 +60,10 @@ Neuromorphic computing brings a wealth of new possibilities and areas to explore
 This autumn, I will be starting the third year of my Computer Science undergraduate degree at the University of Manchester, home of SpiNNAker, one of the world's most prominent pieces of neuromorphic hardware. I hope to combine neuromorphic computing and cybersecurity for my third year project (more on this in a later post) and cannot be more excited to contribute to these growing and exciting fields.
 ### References
 
-1. Christophe et al. (2015) *Pattern recognition with Spiking Neural Networks: a simple training method* [Researchgate](https://www.researchgate.net/publication/281846764_Pattern_recognition_with_Spiking_Neural_Networks_a_simple_training_method)
-2. Yokouchi et al. (2022) *Pattern recognition with neuromorphic computing using magnetic field–induced dynamics of skyrmions*. [ScienceAdvances](https://www.science.org/doi/10.1126/sciadv.abq5652)
+1. Alex Shuper [Unsplash](https://unsplash.com/photos/a-computer-generated-image-of-a-human-brain-8-zt2nE-vnk)
+2. Guo et al. (2020) *Towards Efficient Neuromorphic Hardware: Unsupervised Adaptive Neuron Pruning* [Researchgate](https://www.researchgate.net/publication/342529143_Towards_Efficient_Neuromorphic_Hardware_Unsupervised_Adaptive_Neuron_Pruning)
+3. Christophe et al. (2015) *Pattern recognition with Spiking Neural Networks: a simple training method* [Researchgate](https://www.researchgate.net/publication/281846764_Pattern_recognition_with_Spiking_Neural_Networks_a_simple_training_method)
+4. Yokouchi et al. (2022) *Pattern recognition with neuromorphic computing using magnetic field–induced dynamics of skyrmions*. [ScienceAdvances](https://www.science.org/doi/10.1126/sciadv.abq5652)
 
 
 
