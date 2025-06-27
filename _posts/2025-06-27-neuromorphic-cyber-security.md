@@ -7,6 +7,7 @@ read_time: true
 tags:
   - neuromorphic
   - cybersecurity
+image: /assets/images/brain-with-neuron-nodes.avif
 excerpt: An introduction to neuromorphic computing including a brief discussion on its implications for cybersecurity.
 ---
 
