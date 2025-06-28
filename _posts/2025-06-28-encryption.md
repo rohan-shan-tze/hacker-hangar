@@ -8,12 +8,12 @@ tags:
   - Security+
   - fundamentals
   - encryption
-image: /assets/images/lock-on-keyboard.avif
+image: /assets/images/lock-on-keyboard.png
 excerpt: An overview of cryptography for beginners.
 ---
 
 {% include figure
-  image_path="/assets/images/lock-on-keyboard.avif"
+  image_path="/assets/images/lock-on-keyboard.png"
   alt="Picture of encryption"
 %}
 
