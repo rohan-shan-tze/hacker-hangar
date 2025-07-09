@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hiding Data in Plain Sight: Blockchain and More
+title: "Hiding Data in Plain Sight: Blockchain and More"
 date: 2025-07-09
 author_profile: true
 read_time: true
@@ -11,7 +11,7 @@ tags:
   - obfuscation
   - hashing
   - salting
-image: /assets/images/lock-on-keyboard.png
+image: /assets/images/raccoon-hiding-in-tree.png
 excerpt: Examining blockchain, obfuscation, and hashing
 ---
 
