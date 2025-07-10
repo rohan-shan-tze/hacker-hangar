@@ -17,12 +17,12 @@ excerpt: Examining certificates in cybersecurity
   alt="Person signing a certificate"
 %}
 
-In a world where we are forced to interact with strangers behind computer screens, how can we know who to trust? Certificates.
+In a world where we are forced to interact with strangers behind computer screens, how do we know we are not talking to an imposter? Certificates are the first-layer of proof.
 
 ---
 ### What is a Certificate and Who Issues Them?
 
-A certificate is something that is bound to a public key letting people know that the entity related to that key can be trusted. For example, your browser would typically only allow you to access websites with a certificate it trusts.
+A certificate is something that binds a public key to an identity letting people know that the entity is really who they sat they are. Your browser would typically warn or block you from accessing websites without trusted certificates.
 
 Generally trusted certificate authorities (CAs) are responsible for validating (signing) certificates. 
 
