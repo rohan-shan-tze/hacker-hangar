@@ -22,13 +22,13 @@ In a world where we are forced to interact with strangers behind computer screen
 ---
 ### What is a Certificate and Who Issues Them?
 
-A certificate is something that binds a public key to an identity letting people know that the entity is really who they sat they are. Your browser would typically warn or block you from accessing websites without trusted certificates.
+A certificate is something that binds a public key to an identity letting people know that the entity is really who they say they are. Your browser would typically warn or block you from accessing websites without trusted certificates.
 
 Generally trusted certificate authorities (CAs) are responsible for validating (signing) certificates. 
 
 We can think of CAs being the **root of trust** where the **chain of trust** originates from. As the CA is trusted, and entities that are trusted by the CA are also trusted.
 
-An entity (eg a website) would submit a certificate signing request (CSR) to the CA together with some identifying information, then the CA will conduct its validation process and sign the certificate if it passes. 
+An entity (e.g. a website) would submit a certificate signing request (CSR) to the CA together with some identifying information, then the CA will conduct its validation process and sign the certificate if it passes. 
 
 Our browsers maintain a list of CAs that it trusts by default, so if a website has a certificate from a CA on the list, the website will be trusted.
 
