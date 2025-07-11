@@ -18,7 +18,7 @@ excerpt: Looking at the types of threat actors and their typical attributes
   alt="Illustration of a threat actor"
 %}
 
-Threats come in many forms and from many kinds of bad-intentioned entities. Let’s look at the common types of threat actors (also known as malicious actors) and their typical attributes.
+Threat actors are people or organisations that intend to or have the capability to cause harm. Let’s take a look at the common types threat actor categories (often called malicious actors) and their respective attributes.
 
 ---
 ### Attributes of Actors
