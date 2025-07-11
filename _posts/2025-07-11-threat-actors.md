@@ -18,7 +18,7 @@ excerpt: Looking at the types of threat actors and their typical attributes
   alt="Illustration of a threat actor"
 %}
 
-Threat actors are people or organisations that intend to or have the capability to cause harm. Let’s take a look at the common threat actor categories (often called malicious actors) and their respective attributes.
+Threat actors are people or organisations that intend to cause harm to systems. Let’s take a look at the common threat actor categories (often called malicious actors) and their respective attributes.
 
 ---
 ### Attributes of Actors
@@ -75,6 +75,7 @@ Now let’s examine the main categories of threat actors.
 ### Shadow IT
 
 * Internal staff who deploy unapproved apps or servers to “get work done,” unintentionally creating security gaps  
+* While the lack of intention means that negligent shadow IT may not be considered by all to be "threat actors" they are listed as such by compTIA
 * **Origin:** Internal  
 * **Funding / Resources:** Low to Medium (using existing org resources)  
 * **Sophistication:** Low to Medium  
