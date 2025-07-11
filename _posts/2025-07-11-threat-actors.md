@@ -75,7 +75,7 @@ Now let’s examine the main categories of threat actors.
 ### Shadow IT
 
 * Internal staff who deploy unapproved apps or servers to “get work done,” unintentionally creating security gaps  
-* While the lack of intention means that negligent shadow IT may not be considered by all to be "threat actors" they are listed as such by compTIA
+* While the lack of intention means that negligent shadow IT may not be considered by all to be "threat actors", they are listed as such by CompTIA
 * **Origin:** Internal  
 * **Funding / Resources:** Low to Medium (using existing org resources)  
 * **Sophistication:** Low to Medium  
