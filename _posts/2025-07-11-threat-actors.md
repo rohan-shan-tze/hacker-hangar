@@ -81,6 +81,23 @@ Now let’s examine the main categories of threat actors.
 * **Sophistication:** Low to Medium  
 
 ---
+### Motivations
+
+Let's take a quick look at the common motivators of threat actors. These include:
+
+- Data Exfiltration
+- Espionage
+- Financial Gain
+- War
+- Disruption / chaos
+- Philosophical / political Beliefs
+- Ethics
+- Revenge
+- Service disruption
+- Blackmail
+
+---
+
 ### References
 
 1. Kasiade, *Person in mask symbolising a threat actor* – [Unsplash](https://unsplash.com/photos/a-man-wearing-a-mask-7Ss09bTO5Zo)
