@@ -12,6 +12,7 @@ I am someone who learns best by explaining concepts to myself and breaking compl
 A bit more about me: I am an International Master of chess and have been lucky enough to travel the world while playing competitions. My biggest win was when I beat former world championship contender GM Nigel Short, and my biggest tournament successes were winning the Eastern Asia U-18 Championship and the Malaysian National Games.
 
 Apart from chess, my hobbies include: cooking (and eating!), the gym, various sports such as football, table tennis, badminton and basketball, as well as hiking. I also enjoy learning about psychology, biology, and economics.
+
 ---
 
 ### 🔗 Connect with me
