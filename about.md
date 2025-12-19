@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-I am an incoming third year computer science undergraduate student at the University of Manchester with a burning question in my mind: "*What is intelligence, exactly?*". My desire to understand the nature of intelligence has led to my interest in machine learning and the intersection between AI and neuroscience. I also enjoy learning about cybersecurity, as I believe that as the complexity and intelligence of systems grow, so do the risks and dangers. 
+I am a third year computer science undergraduate student at the University of Manchester with a burning question in my mind: "*What is intelligence, exactly?*". My desire to understand the nature of intelligence has led to my interest in machine learning and the intersection between AI and neuroscience. I also enjoy learning about cybersecurity, as I believe that as the complexity and intelligence of systems grow, so do the risks and dangers. 
 
 I am someone who learns best by explaining concepts to myself and breaking complex ideas down into digestible pieces. This blog is a natural extension of that process: a place where I share my self-explanations and reflections, in the hope that others might learn from my journey as well.
 
