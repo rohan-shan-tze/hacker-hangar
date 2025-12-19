@@ -1,1 +1,1 @@
-Documenting my journey to junior penetration tester and beyond.
+Documenting my learning journey
